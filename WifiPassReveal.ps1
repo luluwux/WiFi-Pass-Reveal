@@ -1,5 +1,3 @@
-# Requires -Version 5.1
-
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 #  CORE LOGIC
